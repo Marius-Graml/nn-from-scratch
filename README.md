@@ -1,5 +1,10 @@
 # Deep Learning Project
 
+## Overview
+This project implements a fully connected feedforward neural network from scratch in modern C++. It includes essential components like a data loader, layers (e.g., linear, activation), loss functions, an optimizer, and a modular `Network` class.
+
+The main goal is to understand the inner workings of deep learning by re-creating core functionality without relying on high-level libraries. Matrix operations are powered by the [Eigen](https://eigen.tuxfamily.org/) library for performance and simplicity.
+
 ## Build
 ### Linux
 ```bash
