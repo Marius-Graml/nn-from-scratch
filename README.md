@@ -1,7 +1,4 @@
-# Group_22
-
-
-Deep Learning Project
+# Deep Learning Project
 
 ## Build
 ### Linux
