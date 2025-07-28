@@ -5,6 +5,17 @@ This project implements a fully connected feedforward neural network from scratc
 
 The main goal is to understand the inner workings of deep learning by re-creating core functionality without relying on high-level libraries. Matrix operations are powered by the [Eigen](https://eigen.tuxfamily.org/) library for performance and simplicity.
 
+## Features
+- Fully modular layer-based architecture (OOP)
+- Implemented from scratch:
+  - Forward & backward propagation
+  - Linear, Sigmoid, ReLU, Leaky ReLU
+  - Softmax + CrossEntropyLoss
+  - SGD optimizer (+ momentum, Adam)
+- MNIST PNG loading with custom DataLoader
+- Class diagram with `mermaid` for architecture overview
+- Unit tests
+
 ## Build
 ### Linux
 ```bash
