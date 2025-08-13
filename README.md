@@ -164,4 +164,4 @@ This sprint is about structuring the code in a modular fashion to ultimately all
   - Dataloader restructured to use iterators
   - Cleaner class interfaces and modular architecture
 - Goal: Achieve at least **30% accuracy** on MNIST with the custom framework 😉
-- Result: Up to 90 % :-)
+- Result: Up to 90% :-)
